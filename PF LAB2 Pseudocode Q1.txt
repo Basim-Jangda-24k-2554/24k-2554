@@ -1,0 +1,23 @@
+START
+INPUT Variable #1 
+INPUT Variable #2
+INPUT Variable #3
+
+SET Variable #1 to a
+SET Variable #2 to b
+SET Variable #3 to c
+
+
+IF  a > b THEN
+  MAX = a
+else 
+     MAX = b
+ENDIF
+
+IF c > MAX THEN
+  MAX = c 
+  ENDIF
+
+PRINT 'MAX is the maximum number'
+
+ 
