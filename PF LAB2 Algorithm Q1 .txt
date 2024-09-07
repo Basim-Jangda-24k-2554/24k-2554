@@ -2,4 +2,19 @@ Q Implement an algorithm for determining if an Nth is a divisor of an n Number (
 If so, determine if it’s an even number or odd number as well.
 
 1. START
-2. 
+2. Ask the user to enter the n Number 
+3. Ask the user to enter the Nth number that is to be checked for bieng a divisor 
+4. Set the n Number as 'A' 
+5. Apply A/Nth number = C
+6. IF C is an integer THEN  
+              C = X 
+    Else 
+          Print ' the given Nth number is not a divisor to the n Number'
+7. do A/2 = D 
+8. IF D is an integer THEN
+                Print 'the given n Number is an even number'
+    Else 
+         Print 'the given n Number is an odd number'
+END
+        
+                        
