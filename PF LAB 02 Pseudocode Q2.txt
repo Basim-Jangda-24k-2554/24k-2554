@@ -1,0 +1,16 @@
+START
+
+INPUT Variable #1 
+INPUT Variable #2 
+INPUT Variable #3
+
+SET VARIABLE #1 = A
+SET VARIABLE #2 = B
+SET VARIABLE #3 = C
+
+
+SUM = A + B + C 
+
+PRINT 'the sum of the given 3 variables is SUM'
+END 
+
