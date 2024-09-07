@@ -1,0 +1,21 @@
+START 
+
+INPUT Given Number 1 
+INPUT Given Number 2 
+INPUT Operator "the input should be either '+' or a '-' " 
+
+SET Given number 1  to A
+SET Given number 2  to B
+
+IF given Operator is '-' THEN 
+ANSWER = A Operator B 
+ELSE 
+    Set Operator to ADD
+    ANSWER = A Operator B
+END IF 
+
+PRINT 'The asnwer is ANSWER'
+
+END
+
+
