@@ -1,0 +1,8 @@
+Q. Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+
+1. START
+2. Enter the names of months in the sequence of a year
+3. Assign numbers to the names of the months starting from January as 1 and December as 12
+4. Ask the user to enter a number from 1-12
+5. Print the name of the month assigned to the number entered 
+6. END 
